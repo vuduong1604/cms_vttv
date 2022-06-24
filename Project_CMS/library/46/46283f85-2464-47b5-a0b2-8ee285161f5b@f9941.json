@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ico_nopbai",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 287,
+      "height": 114
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 287,
+      "height": 114
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "46283f85-2464-47b5-a0b2-8ee285161f5b@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Rectangle 3437",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 314,
+      "height": 104
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 314,
+      "height": 104
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "57c0a97d-a08c-45cc-8dd4-893170c4b57b@6c48a",
+    "packable": true
+  }
+}

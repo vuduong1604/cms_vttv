@@ -1,0 +1,354 @@
+{
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu.meta": {
+    "time": 1655950110119.1626
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu": {
+    "time": 1655953304695.2295,
+    "uuid": "f3483643-f195-4129-af1b-65f4ce3156e2",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\btn_back.png.meta": {
+    "time": 1655953177111.9763
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\btn_circle_big.png.meta": {
+    "time": 1655952619835.6619
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\bg_ht.png.meta": {
+    "time": 1655950114075.6465
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\btn_home.png.meta": {
+    "time": 1655950114085.6465
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\btn_circle_small.png.meta": {
+    "time": 1655952988997.4788
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\btn_next.png.meta": {
+    "time": 1655950114111.6462
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\btn_replay.png.meta": {
+    "time": 1655950114120.6465
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\bg 7.png.meta": {
+    "time": 1655950540419.5276
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\btn_next1.png.meta": {
+    "time": 1655953187753.8604
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\btn_yellow_question 2 1.png.meta": {
+    "time": 1655969890006.096
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\Group 349.png.meta": {
+    "time": 1655950114215.9841
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\Group 1 (1).png.meta": {
+    "time": 1655969920210.8618
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\Rectangle 3437.png.meta": {
+    "time": 1655953375812.9158
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\ico_time.png.meta": {
+    "time": 1655950114240.984
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\point.png.meta": {
+    "time": 1655950114250.984
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\title_hoanthanh.png.meta": {
+    "time": 1655950114267.984
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\tau ngam 1.png.meta": {
+    "time": 1655970309890.9092
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\Vector (1).png.meta": {
+    "time": 1655953324946.318
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\title_tryagain.png.meta": {
+    "time": 1655950114321.5315
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\ico_eg_time.png.meta": {
+    "time": 1655950114342.5315
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\ico_nopbai.png.meta": {
+    "time": 1655951469751.9304
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\Vector.png.meta": {
+    "time": 1655953321421.9358
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\Untitled-2.png.meta": {
+    "time": 1655950114468.5312
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\btn_back.png": {
+    "time": 1654760446833.333,
+    "uuid": "2acf8074-7b6c-4f85-b221-b4576cd08717",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\btn_circle_big.png": {
+    "time": 1654760446833.333,
+    "uuid": "871b0ecf-d5f4-4a1d-b917-26aac7e07e8d",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\bg_ht.png": {
+    "time": 1654760446836.333,
+    "uuid": "2b3f8b27-9923-458d-b574-57f380b6f7b4",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\btn_home.png": {
+    "time": 1654760446833.333,
+    "uuid": "6183b55a-f420-4320-abb0-4e9cc8ec8b23",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\btn_circle_small.png": {
+    "time": 1654760446833.333,
+    "uuid": "42f40e2b-8bb5-49af-878e-e2fce1b8094f",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\btn_next.png": {
+    "time": 1654760446833.333,
+    "uuid": "3b6cede5-0788-4854-b54a-275a7de40004",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\btn_replay.png": {
+    "time": 1654760446833.333,
+    "uuid": "5736e6a9-49ec-4cf3-bc37-ba8fecb5a0a9",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\bg 7.png": {
+    "time": 1654760446838.3335,
+    "uuid": "0000f36f-6a08-40ec-8098-e6dfd14454fa",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\btn_next1.png": {
+    "time": 1654760446833.333,
+    "uuid": "63ad3e60-703a-4066-b50d-5913b107f6e2",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\btn_yellow_question 2 1.png": {
+    "time": 1654760446833.333,
+    "uuid": "0236eed3-444c-4b64-9e1a-07ee476f239f",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\Group 349.png": {
+    "time": 1654853156526.6455,
+    "uuid": "e7254c9c-7eea-40b2-bca3-c9188755e075",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\Group 1 (1).png": {
+    "time": 1654760446833.333,
+    "uuid": "21356b8f-9682-4b10-9777-626dbb8d0975",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\Rectangle 3437.png": {
+    "time": 1654932249464.2917,
+    "uuid": "57c0a97d-a08c-45cc-8dd4-893170c4b57b",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\ico_time.png": {
+    "time": 1654760446836.333,
+    "uuid": "7506be74-1bba-424b-b83f-f7c14d66473d",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\point.png": {
+    "time": 1654760446833.333,
+    "uuid": "6ef292ff-2f45-4435-98fd-c2b3caa7c813",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\title_hoanthanh.png": {
+    "time": 1654760446833.333,
+    "uuid": "cbd576d9-fbb5-45da-9aef-694729bc8053",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\tau ngam 1.png": {
+    "time": 1654761982008.092,
+    "uuid": "8d0f37ec-2bd5-4269-bf01-5c2cee398ed9",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\Vector (1).png": {
+    "time": 1654932615676.552,
+    "uuid": "18addafd-8aa9-45ad-9b56-c12cfb6dc37a",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\title_tryagain.png": {
+    "time": 1654760446833.333,
+    "uuid": "1436388c-89a9-4cae-9641-ecc0a9559187",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\ico_eg_time.png": {
+    "time": 1654760446833.333,
+    "uuid": "85bc5d06-88f7-4b01-9352-743a00bb2d27",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\ico_nopbai.png": {
+    "time": 1654760446836.333,
+    "uuid": "46283f85-2464-47b5-a0b2-8ee285161f5b",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\Vector.png": {
+    "time": 1654932618000.3386,
+    "uuid": "1046e7e3-44ab-4fe6-a50d-6edcad89a4ae",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game_Dien_Tu\\Untitled-2.png": {
+    "time": 1654932109466.4634,
+    "uuid": "828ab8ed-8907-4be4-b2be-a141a2956e55",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Prefab.meta": {
+    "time": 1655952193348.7253
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Prefab": {
+    "time": 1655952205643.6248,
+    "uuid": "c4f78132-247a-477b-ba99-60feba861b95",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Prefab\\GameDienTu.prefab.meta": {
+    "time": 1655952205647.6235
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Prefab\\GameDienTu.prefab": {
+    "time": 1655968791633.7239,
+    "uuid": "1be9efa2-d6cf-41d8-8bed-0eb5ea6f8773",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Font.meta": {
+    "time": 1655952844769.138
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Font": {
+    "time": 1655952860424.4138,
+    "uuid": "83f19783-3e6d-4f89-a0ab-09293fbfdeda",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Font\\SVN-VOLTE ROUNDED LIGHT.TTF.meta": {
+    "time": 1655952860428.4136
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Font\\SVN-VOLTE ROUNDED MEDIUM.TTF.meta": {
+    "time": 1655952860432.413
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Font\\SVN-VOLTE ROUNDED BOLD.TTF.meta": {
+    "time": 1655952860436.414
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Font\\SVN-VOLTE ROUNDED REGULAR.TTF.meta": {
+    "time": 1655952860439.413
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Font\\SVN-VOLTE ROUNDED SEMIBOLD.TTF.meta": {
+    "time": 1655952860444.4133
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Font\\SVN-VOLTE ROUNDED LIGHT.TTF": {
+    "time": 1654760931850.9778,
+    "uuid": "03471787-055b-4a09-9e0a-5d8bc8eb7002",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Font\\SVN-VOLTE ROUNDED MEDIUM.TTF": {
+    "time": 1654760931849.9778,
+    "uuid": "a37c2204-9707-4cf3-8e03-60c30f517a72",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Font\\SVN-VOLTE ROUNDED BOLD.TTF": {
+    "time": 1654760931850.9778,
+    "uuid": "9ac85b89-bed7-4c2a-b954-9075cfe871e7",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Font\\SVN-VOLTE ROUNDED REGULAR.TTF": {
+    "time": 1654760931849.9778,
+    "uuid": "45ae62ec-abc3-437d-a506-7a845dc32b03",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Font\\SVN-VOLTE ROUNDED SEMIBOLD.TTF": {
+    "time": 1654760931851.9778,
+    "uuid": "985d1fca-2aeb-4f4d-aeef-9edb8c819c40",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\scene.scene.meta": {
+    "time": 1655952014689.9756
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\scene.scene": {
+    "time": 1656056050956.0835,
+    "uuid": "278232d9-1517-4573-8c2e-44eb69a5a67c",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game1-4.meta": {
+    "time": 1655968054011.619
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game1-4": {
+    "time": 1655976612531.7795,
+    "uuid": "ee887c1c-fba6-40dd-994e-ac7673a4b9c9",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game1-4\\bg 4.png.meta": {
+    "time": 1655968067554.3174
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game1-4\\bg 4.png": {
+    "time": 1655968045875.8528,
+    "uuid": "401df772-cd63-4a75-995f-4f8a6808a36f",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game1-4\\Group 3 copy 2 1.png.meta": {
+    "time": 1655976345838.5928
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game1-4\\Group 3 copy 2 1.png": {
+    "time": 1655976325219.7683,
+    "uuid": "b79b8ad3-d186-42f7-ae3c-3a03aa79a28b",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game1-4\\Frame 41.png.meta": {
+    "time": 1655976413932.7024
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game1-4\\Frame 41.png": {
+    "time": 1655976407512.7651,
+    "uuid": "fcbbe2fc-b5b7-4336-8cf9-1ee728291d0d",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game1-4\\Ellipse 369.png.meta": {
+    "time": 1655976434754.404
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game1-4\\Ellipse 369.png": {
+    "time": 1655976427233.865,
+    "uuid": "8c05aafe-1a68-453f-ad28-fb209b40078f",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game1-4\\Group 349.png.meta": {
+    "time": 1655976644865.4495
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game1-4\\Group2da.png.meta": {
+    "time": 1655976640263.2905
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game1-4\\Group 349.png": {
+    "time": 1652953481052.4731,
+    "uuid": "055ab32e-e4ab-4c01-a008-fea8efafc7ca",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Game1-4\\Group2da.png": {
+    "time": 1652953481053.4731,
+    "uuid": "84ba7774-7b11-4f7c-9ce7-f1b77ac0275b",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\GameTinhToan.meta": {
+    "time": 1655976930239.2107
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\GameTinhToan": {
+    "time": 1655976934408.995,
+    "uuid": "79e8d5b2-6d99-40d0-9c0b-28d645926243",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\GameTinhToan\\bg 11.png.meta": {
+    "time": 1655976934463.993
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\GameTinhToan\\bg 11.png": {
+    "time": 1655976914588.9094,
+    "uuid": "e449a9ec-9a72-41bf-8b2d-d1aec0921766",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Script.meta": {
+    "time": 1655977020831.9553
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Script": {
+    "time": 1655977040017.7444,
+    "uuid": "68ba2f8e-92a3-4ca8-855b-f26e0c76fd90",
+    "missing": false
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Script\\Game1-4.ts.meta": {
+    "time": 1655977040021.7441
+  },
+  "D:\\Project_CMS\\NewProject\\assets\\Script\\Game1-4.ts": {
+    "time": 1656065349381.7163,
+    "uuid": "7459314d-4162-43c3-9335-55d833dfbcf0",
+    "missing": false
+  }
+}

@@ -1,0 +1,304 @@
+2022-06-23T01:56:44.851Z - log: [Package] menu@1.0.0 enable
+2022-06-23T01:56:44.852Z - log: [Package] profile@1.0.0 enable
+2022-06-23T01:56:44.856Z - log: [Package] project@1.0.2 enable
+2022-06-23T01:56:44.859Z - log: [Package] messages@1.0.0 enable
+2022-06-23T01:56:44.871Z - log: [Package] program@1.0.0 enable
+2022-06-23T01:56:44.874Z - log: [Package] tester@1.0.0 enable
+2022-06-23T01:56:44.877Z - log: [Package] preferences@1.0.0 enable
+2022-06-23T01:56:45.227Z - log: Setup mods mgr.: 192.393ms
+2022-06-23T01:56:45.231Z - verbose: [Engine] QuickCompile engine (321ms)
+2022-06-23T01:56:45.233Z - log: [Package] engine@1.0.6 enable
+2022-06-23T01:56:45.815Z - log: [Package] programming@1.0.0 enable
+2022-06-23T01:56:46.165Z - log: [Package] device@1.0.1 enable
+2022-06-23T01:56:46.202Z - log: [Package] ui-kit@1.0.1 enable
+2022-06-23T01:56:46.227Z - log: [Package] engine-extends@1.0.0 enable
+2022-06-23T01:56:46.270Z - log: [Package] asset-db@1.0.0 enable
+2022-06-23T01:56:46.313Z - log: [Package] scene@1.0.0 enable
+2022-06-23T01:56:46.410Z - log: [Package] server@1.0.0 enable
+2022-06-23T01:56:46.411Z - warn: Server: Port 7456 is occupied
+2022-06-23T01:56:46.411Z - warn: Server: Port 7457 is occupied
+2022-06-23T01:56:46.411Z - warn: Server: Port 7458 is occupied
+2022-06-23T01:56:46.451Z - log: [Package] utils@1.0.0 enable
+2022-06-23T01:56:48.379Z - log: [Package] preview@1.0.1 enable
+2022-06-23T01:56:48.408Z - log: [Package] animator@1.0.0 enable
+2022-06-23T01:56:49.038Z - log: Profile changed: builder (log.level: 4)
+2022-06-23T01:56:49.043Z - log: [Package] builder@1.3.2 enable
+2022-06-23T01:56:49.071Z - log: [Package] shortcuts@1.0.1 enable
+2022-06-23T01:56:49.099Z - log: [Package] animation-graph@1.0.0 enable
+2022-06-23T01:56:49.120Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-06-23T01:56:49.142Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-06-23T01:56:49.183Z - log: [Package] about@1.0.0 enable
+2022-06-23T01:56:49.217Z - log: [Package] assets@1.0.0 enable
+2022-06-23T01:56:49.245Z - log: [Package] console@1.0.0 enable
+2022-06-23T01:56:49.352Z - log: [Package] extension@3.0.16 enable
+2022-06-23T01:56:49.380Z - log: [Package] hierarchy@1.0.0 enable
+2022-06-23T01:56:49.409Z - log: [Package] inspector@1.0.0 enable
+2022-06-23T01:56:49.410Z - verbose: [AssetDB] Require engine code (683ms)
+2022-06-23T01:56:49.437Z - log: [Package] lightmap@1.0.4 enable
+2022-06-23T01:56:49.478Z - log: [Package] node-library@1.0.1 enable
+2022-06-23T01:56:49.507Z - log: [Package] package-asset@1.0.0 enable
+2022-06-23T01:56:49.544Z - log: [Package] process@1.0.0 enable
+2022-06-23T01:56:49.575Z - log: [Package] reference-image@1.0.0 enable
+2022-06-23T01:56:49.598Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-06-23T01:56:49.633Z - log: [Package] android@1.0.0 enable
+2022-06-23T01:56:49.665Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-06-23T01:56:49.696Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-06-23T01:56:49.727Z - log: [Package] cocos-play@1.0.0 enable
+2022-06-23T01:56:49.750Z - log: [Package] huawei-agc@1.0.0 enable
+2022-06-23T01:56:49.772Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-06-23T01:56:49.807Z - log: [Package] ios@1.0.0 enable
+2022-06-23T01:56:49.837Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-06-23T01:56:49.869Z - log: [Package] link-sure@1.0.0 enable
+2022-06-23T01:56:49.901Z - log: [Package] linux@1.0.0 enable
+2022-06-23T01:56:49.933Z - log: [Package] mac@1.0.0 enable
+2022-06-23T01:56:50.009Z - log: [Package] native@1.0.0 enable
+2022-06-23T01:56:50.044Z - log: [Package] ohos@1.0.0 enable
+2022-06-23T01:56:50.075Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-06-23T01:56:50.107Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-06-23T01:56:50.137Z - log: [Package] qtt@1.0.0 enable
+2022-06-23T01:56:50.170Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-06-23T01:56:50.209Z - log: [Package] web-desktop@1.0.0 enable
+2022-06-23T01:56:50.248Z - log: [Package] web-mobile@1.0.0 enable
+2022-06-23T01:56:50.278Z - log: [Package] wechatgame@1.0.1 enable
+2022-06-23T01:56:50.302Z - log: [Package] windows@1.0.0 enable
+2022-06-23T01:56:50.327Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-06-23T01:56:50.489Z - log: [Package] cocos-service@3.0.3 enable
+2022-06-23T01:56:50.524Z - log: [Package] importer@1.0.0 enable
+2022-06-23T01:56:50.683Z - log: [Im-plugin] Check im-plugin version.
+2022-06-23T01:56:50.690Z - log: [Package] im-plugin@3.0.8 enable
+2022-06-23T01:56:51.609Z - log: [Im-plugin] No online info of im-plugin.
+2022-06-23T01:56:54.937Z - verbose: [Scene] Require engine code (0ms)
+2022-06-23T01:56:54.937Z - verbose: [Scene] Startup engine (0ms)
+2022-06-23T01:56:54.951Z - log: [Scene] Cocos Creator v3.5.0
+2022-06-23T01:56:55.224Z - verbose: [Scene] Open engine (287ms)
+2022-06-23T01:56:55.224Z - verbose: [Scene] Configure engine (0ms)
+2022-06-23T01:56:54.980Z - info: [Scene] Forward render pipeline initialized.
+2022-06-23T02:02:12.952Z - error: [Scene] Can't add component 'cc.Canvas' because Canvas already contains the same component.Error: Can't add component 'cc.Canvas' because Canvas already contains the same component.
+    at Node._checkMultipleComp (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:149893:17)
+    at Node.addComponent (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:151032:12)
+    at NodeManager.createComponent (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\node\index.ccc:1:9561)
+    at GeneralSceneFacade.createComponent (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\general-scene-facade.ccc:1:9696)
+    at SceneFacadeManager.createComponent (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:16707)
+    at step (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:704)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1545
+    at new Promise (<anonymous>)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1482
+    at EventEmitter.<anonymous> (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\public\ipc\webview.ccc:1:767)
+2022-06-23T02:57:44.871Z - log: [Scene] Cannot use 'in' operator to search for 'position' in nullTypeError: Cannot use 'in' operator to search for 'position' in null
+    at SceneFacadeManager.queryNodeDump (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:13690)
+2022-06-23T02:57:44.871Z - error: [Window] Cannot use 'in' operator to search for 'position' in nullTypeError: Cannot use 'in' operator to search for 'position' in null
+    at <process:scene>
+    at SceneFacadeManager.queryNodeDump (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:13690)
+2022-06-23T03:38:27.980Z - warn: [Scene] Set property failed: dcx756K8lBB4ZTjmlxtNYh does not existError: [Scene] Set property failed: dcx756K8lBB4ZTjmlxtNYh does not exist
+    at NodeManager.setProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\node\index.ccc:1:6046)
+    at GeneralSceneFacade.setNodeProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\general-scene-facade.ccc:1:7258)
+    at SceneFacadeManager.setNodeProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:14048)
+    at step (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:704)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1545
+    at new Promise (<anonymous>)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1482
+2022-06-23T03:38:28.482Z - warn: [Scene] Set property failed: dcx756K8lBB4ZTjmlxtNYh does not existError: [Scene] Set property failed: dcx756K8lBB4ZTjmlxtNYh does not exist
+    at NodeManager.setProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\node\index.ccc:1:6046)
+    at GeneralSceneFacade.setNodeProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\general-scene-facade.ccc:1:7258)
+    at SceneFacadeManager.setNodeProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:14048)
+    at step (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:704)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1545
+    at new Promise (<anonymous>)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1482
+2022-06-23T03:38:28.928Z - warn: [Scene] Set property failed: dcx756K8lBB4ZTjmlxtNYh does not existError: [Scene] Set property failed: dcx756K8lBB4ZTjmlxtNYh does not exist
+    at NodeManager.setProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\node\index.ccc:1:6046)
+    at GeneralSceneFacade.setNodeProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\general-scene-facade.ccc:1:7258)
+    at SceneFacadeManager.setNodeProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:14048)
+    at step (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:704)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1545
+    at new Promise (<anonymous>)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1482
+2022-06-23T03:38:29.185Z - warn: [Scene] Set property failed: dcx756K8lBB4ZTjmlxtNYh does not existError: [Scene] Set property failed: dcx756K8lBB4ZTjmlxtNYh does not exist
+    at NodeManager.setProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\node\index.ccc:1:6046)
+    at GeneralSceneFacade.setNodeProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\general-scene-facade.ccc:1:7258)
+    at SceneFacadeManager.setNodeProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:14048)
+    at step (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:704)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1545
+    at new Promise (<anonymous>)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1482
+2022-06-23T03:38:31.264Z - warn: [Scene] Set property failed: dcx756K8lBB4ZTjmlxtNYh does not existError: [Scene] Set property failed: dcx756K8lBB4ZTjmlxtNYh does not exist
+    at NodeManager.setProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\node\index.ccc:1:6046)
+    at GeneralSceneFacade.setNodeProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\general-scene-facade.ccc:1:7258)
+    at SceneFacadeManager.setNodeProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:14048)
+    at step (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:704)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1545
+    at new Promise (<anonymous>)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1482
+2022-06-23T03:38:31.617Z - warn: [Scene] Set property failed: dcx756K8lBB4ZTjmlxtNYh does not existError: [Scene] Set property failed: dcx756K8lBB4ZTjmlxtNYh does not exist
+    at NodeManager.setProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\node\index.ccc:1:6046)
+    at GeneralSceneFacade.setNodeProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\general-scene-facade.ccc:1:7258)
+    at SceneFacadeManager.setNodeProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:14048)
+    at step (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:704)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1545
+    at new Promise (<anonymous>)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1482
+2022-06-23T03:38:31.794Z - warn: [Scene] Set property failed: dcx756K8lBB4ZTjmlxtNYh does not existError: [Scene] Set property failed: dcx756K8lBB4ZTjmlxtNYh does not exist
+    at NodeManager.setProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\node\index.ccc:1:6046)
+    at GeneralSceneFacade.setNodeProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\general-scene-facade.ccc:1:7258)
+    at SceneFacadeManager.setNodeProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:14048)
+    at step (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:704)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1545
+    at new Promise (<anonymous>)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1482
+2022-06-23T03:38:31.993Z - warn: [Scene] Set property failed: dcx756K8lBB4ZTjmlxtNYh does not existError: [Scene] Set property failed: dcx756K8lBB4ZTjmlxtNYh does not exist
+    at NodeManager.setProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\node\index.ccc:1:6046)
+    at GeneralSceneFacade.setNodeProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\general-scene-facade.ccc:1:7258)
+    at SceneFacadeManager.setNodeProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:14048)
+    at step (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:704)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1545
+    at new Promise (<anonymous>)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1482
+2022-06-23T03:38:32.171Z - warn: [Scene] Set property failed: dcx756K8lBB4ZTjmlxtNYh does not existError: [Scene] Set property failed: dcx756K8lBB4ZTjmlxtNYh does not exist
+    at NodeManager.setProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\node\index.ccc:1:6046)
+    at GeneralSceneFacade.setNodeProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\general-scene-facade.ccc:1:7258)
+    at SceneFacadeManager.setNodeProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:14048)
+    at step (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:704)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1545
+    at new Promise (<anonymous>)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1482
+2022-06-23T03:38:32.332Z - warn: [Scene] Set property failed: dcx756K8lBB4ZTjmlxtNYh does not existError: [Scene] Set property failed: dcx756K8lBB4ZTjmlxtNYh does not exist
+    at NodeManager.setProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\node\index.ccc:1:6046)
+    at GeneralSceneFacade.setNodeProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\general-scene-facade.ccc:1:7258)
+    at SceneFacadeManager.setNodeProperty (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:14048)
+    at step (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:704)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1545
+    at new Promise (<anonymous>)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\manager\ipc.ccc:1:1482
+2022-06-23T10:56:03.470Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7459/scripting/x/chunks/a2/a2b8f06b9297f461a8667f6f2101c6a44f433003.js
+2022-06-23T11:03:16.359Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7459/scripting/x/chunks/a2/a2b8f06b9297f461a8667f6f2101c6a44f433003.js
+2022-06-23T11:05:07.914Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7459/scripting/x/chunks/45/4578957b4a92367aa2e5d99f1e25770e7d4052c9.js
+2022-06-23T11:05:39.150Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7459/scripting/x/chunks/d2/d216e9a186dccded4289fbcee6c52eb891673d1a.js
+2022-06-23T11:06:18.019Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7459/scripting/x/chunks/d4/d4f61fb24fe51e18c9ec685788a043bf74ffb10e.js
+2022-06-23T11:06:24.843Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7459/scripting/x/chunks/d4/d4f61fb24fe51e18c9ec685788a043bf74ffb10e.js
+2022-06-23T11:07:21.272Z - warn: Metrics: no valid info
+2022-06-23T11:07:21.562Z - error: Cannot read property 'webContents' of nullTypeError: Cannot read property 'webContents' of null
+    at Object.sendToWin (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\node_modules\@base\electron-base-ipc\dist\browser.ccc:1:1611)
+    at Object.sendToWin (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\node_modules\@base\electron-base-ipc\dist\index.js:1:355)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\node_modules\@base\electron-worker\lib\browser.ccc:1:1353
+    at new Promise (<anonymous>)
+    at Worker.send (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\node_modules\@base\electron-worker\lib\browser.ccc:1:1329)
+    at ProgrammingWorker.request (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\programming\dist\worker\browser.ccc:1:672)
+    at Package.<anonymous> (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\programming\dist\worker\browser.ccc:1:1508)
+    at Package.exec (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\node_modules\@editor\package\dist\browser\package.ccc:1:4126)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\node_modules\@editor\package\dist\browser\index.js:1:2922
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\node_modules\@base\electron-base-ipc\dist\sender.ccc:1:1789
+2022-06-23T11:07:21.563Z - error: Cannot read property 'webContents' of nullTypeError: Cannot read property 'webContents' of null
+    at Object.sendToWin (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\node_modules\@base\electron-base-ipc\dist\browser.ccc:1:1611)
+    at Object.sendToWin (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\node_modules\@base\electron-base-ipc\dist\index.js:1:355)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\node_modules\@base\electron-worker\lib\browser.ccc:1:1353
+    at new Promise (<anonymous>)
+    at Worker.send (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\node_modules\@base\electron-worker\lib\browser.ccc:1:1329)
+    at ProgrammingWorker.request (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\programming\dist\worker\browser.ccc:1:672)
+    at Package.<anonymous> (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\programming\dist\worker\browser.ccc:1:1508)
+    at Package.exec (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\node_modules\@editor\package\dist\browser\package.ccc:1:4126)
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\node_modules\@editor\package\dist\browser\index.js:1:2922
+    at C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\node_modules\@base\electron-base-ipc\dist\sender.ccc:1:1789
+2022-06-24T00:59:47.236Z - log: [Package] menu@1.0.0 enable
+2022-06-24T00:59:47.238Z - log: [Package] profile@1.0.0 enable
+2022-06-24T00:59:47.245Z - log: [Package] project@1.0.2 enable
+2022-06-24T00:59:47.248Z - log: [Package] messages@1.0.0 enable
+2022-06-24T00:59:47.253Z - log: [Package] program@1.0.0 enable
+2022-06-24T00:59:47.256Z - log: [Package] tester@1.0.0 enable
+2022-06-24T00:59:47.259Z - log: [Package] preferences@1.0.0 enable
+2022-06-24T00:59:47.842Z - log: Setup mods mgr.: 370.815ms
+2022-06-24T00:59:47.847Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle,particle-2d,physics-2d-box2d,physics-ammo,primitive,profiler,skeletal-animation,spine,terrain,tiled-map,tween,ui,video,webview)
+2022-06-24T00:59:47.851Z - verbose: [Engine] QuickCompile engine (558ms)
+2022-06-24T00:59:47.853Z - log: [Package] engine@1.0.6 enable
+2022-06-24T00:59:48.441Z - log: [Package] programming@1.0.0 enable
+2022-06-24T00:59:48.810Z - log: [Package] device@1.0.1 enable
+2022-06-24T00:59:48.836Z - log: [Package] ui-kit@1.0.1 enable
+2022-06-24T00:59:48.862Z - log: [Package] engine-extends@1.0.0 enable
+2022-06-24T00:59:48.917Z - log: [Package] asset-db@1.0.0 enable
+2022-06-24T00:59:48.947Z - log: [Package] scene@1.0.0 enable
+2022-06-24T00:59:49.064Z - log: [Package] server@1.0.0 enable
+2022-06-24T00:59:49.107Z - log: [Package] utils@1.0.0 enable
+2022-06-24T00:59:51.286Z - log: [Package] preview@1.0.1 enable
+2022-06-24T00:59:51.320Z - log: [Package] animator@1.0.0 enable
+2022-06-24T00:59:51.958Z - log: [Package] builder@1.3.2 enable
+2022-06-24T00:59:51.986Z - log: [Package] shortcuts@1.0.1 enable
+2022-06-24T00:59:52.013Z - log: [Package] animation-graph@1.0.0 enable
+2022-06-24T00:59:52.040Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-06-24T00:59:52.061Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-06-24T00:59:52.092Z - log: [Package] about@1.0.0 enable
+2022-06-24T00:59:52.126Z - log: [Package] assets@1.0.0 enable
+2022-06-24T00:59:52.152Z - log: [Package] console@1.0.0 enable
+2022-06-24T00:59:52.271Z - log: [Package] extension@3.0.16 enable
+2022-06-24T00:59:52.310Z - log: [Package] hierarchy@1.0.0 enable
+2022-06-24T00:59:52.342Z - log: [Package] inspector@1.0.0 enable
+2022-06-24T00:59:52.372Z - log: [Package] lightmap@1.0.4 enable
+2022-06-24T00:59:52.416Z - log: [Package] node-library@1.0.1 enable
+2022-06-24T00:59:52.438Z - log: [Package] package-asset@1.0.0 enable
+2022-06-24T00:59:52.469Z - log: [Package] process@1.0.0 enable
+2022-06-24T00:59:52.501Z - log: [Package] reference-image@1.0.0 enable
+2022-06-24T00:59:52.527Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-06-24T00:59:52.549Z - log: [Package] android@1.0.0 enable
+2022-06-24T00:59:52.574Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-06-24T00:59:52.607Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-06-24T00:59:52.639Z - log: [Package] cocos-play@1.0.0 enable
+2022-06-24T00:59:52.671Z - log: [Package] huawei-agc@1.0.0 enable
+2022-06-24T00:59:52.702Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-06-24T00:59:52.736Z - log: [Package] ios@1.0.0 enable
+2022-06-24T00:59:52.765Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-06-24T00:59:52.796Z - log: [Package] link-sure@1.0.0 enable
+2022-06-24T00:59:52.827Z - log: [Package] linux@1.0.0 enable
+2022-06-24T00:59:52.860Z - log: [Package] mac@1.0.0 enable
+2022-06-24T00:59:52.941Z - log: [Package] native@1.0.0 enable
+2022-06-24T00:59:52.971Z - log: [Package] ohos@1.0.0 enable
+2022-06-24T00:59:52.993Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-06-24T00:59:53.018Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-06-24T00:59:53.050Z - log: [Package] qtt@1.0.0 enable
+2022-06-24T00:59:53.082Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-06-24T00:59:53.121Z - log: [Package] web-desktop@1.0.0 enable
+2022-06-24T00:59:53.153Z - log: [Package] web-mobile@1.0.0 enable
+2022-06-24T00:59:53.183Z - log: [Package] wechatgame@1.0.1 enable
+2022-06-24T00:59:53.215Z - log: [Package] windows@1.0.0 enable
+2022-06-24T00:59:53.237Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-06-24T00:59:53.420Z - log: [Package] cocos-service@3.0.3 enable
+2022-06-24T00:59:53.456Z - log: [Package] importer@1.0.0 enable
+2022-06-24T00:59:53.640Z - log: [Im-plugin] Check im-plugin version.
+2022-06-24T00:59:53.646Z - log: [Package] im-plugin@3.0.8 enable
+2022-06-24T00:59:53.733Z - verbose: [AssetDB] Require engine code (2103ms)
+2022-06-24T00:59:54.563Z - log: [Im-plugin] No online info of im-plugin.
+2022-06-24T00:59:56.855Z - verbose: [Scene] Require engine code (1ms)
+2022-06-24T00:59:56.856Z - verbose: [Scene] Startup engine (0ms)
+2022-06-24T00:59:56.873Z - log: [Scene] Cocos Creator v3.5.0
+2022-06-24T00:59:57.174Z - verbose: [Scene] Open engine (318ms)
+2022-06-24T00:59:57.175Z - verbose: [Scene] Configure engine (0ms)
+2022-06-24T00:59:56.937Z - info: [Scene] Forward render pipeline initialized.
+2022-06-24T02:01:12.058Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/d4/d4f61fb24fe51e18c9ec685788a043bf74ffb10e.js
+2022-06-24T02:02:08.930Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/c4/c4bfa3162f9aa8d8e4ddcdd99d7e84dbd2970dec.js
+2022-06-24T02:03:05.006Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/c4/c4bfa3162f9aa8d8e4ddcdd99d7e84dbd2970dec.js
+2022-06-24T02:04:03.939Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/c4/c4bfa3162f9aa8d8e4ddcdd99d7e84dbd2970dec.js
+2022-06-24T02:04:29.905Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/d2/d28c099671bd1de4781f1bc9601569e6445271e9.js
+2022-06-24T02:08:41.242Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/52/521e5948ecbf897f876a923fb335cef424b64dfd.js
+2022-06-24T02:09:35.361Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/f9/f999cb74bb1a0b71b7cae36ff492db809cbadd90.js
+2022-06-24T02:10:03.366Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/f9/f999cb74bb1a0b71b7cae36ff492db809cbadd90.js
+2022-06-24T02:11:12.754Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/f9/f999cb74bb1a0b71b7cae36ff492db809cbadd90.js
+2022-06-24T02:11:49.514Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/d4/d4f61fb24fe51e18c9ec685788a043bf74ffb10e.js
+2022-06-24T02:13:26.632Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/52/52ae86820a4d14c0c0004343bc91bfcfb8ead9a9.js
+2022-06-24T04:01:50.212Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/4a/4a3baca9ddbad3b822d6fa1ec69b11625bb68f1e.js
+2022-06-24T06:54:50.255Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'name') in http://localhost:7456/scripting/x/chunks/fd/fd6fb725e9487877247d7a3a8926b8fb19bda322.js
+2022-06-24T06:55:10.571Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'name') in http://localhost:7456/scripting/x/chunks/fd/fd6fb725e9487877247d7a3a8926b8fb19bda322.js
+2022-06-24T06:55:48.885Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'name') in http://localhost:7456/scripting/x/chunks/2c/2c11a9c05ceaa07b3397812be4572aa0767cee47.js
+2022-06-24T06:56:42.197Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/48/4834c142b68fa56007d72c33a5b3346a6361d16a.js
+2022-06-24T06:58:03.772Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/26/26c42c67f9bac2a7f57b1a604f77907b5cfc7173.js
+2022-06-24T06:58:24.599Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/48/4834c142b68fa56007d72c33a5b3346a6361d16a.js
+2022-06-24T06:59:14.052Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/94/94ff21fc5ed377acb4f58ee10658ede5adc4f632.js
+2022-06-24T07:00:27.734Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/94/94ff21fc5ed377acb4f58ee10658ede5adc4f632.js
+2022-06-24T07:01:23.157Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/94/94ff21fc5ed377acb4f58ee10658ede5adc4f632.js
+2022-06-24T07:01:41.865Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/48/4834c142b68fa56007d72c33a5b3346a6361d16a.js
+2022-06-24T07:06:35.272Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/9d/9d5ffa486d8864c868d5677e9ddef4f64c74060a.js
+2022-06-24T07:08:50.141Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/fb/fb2cfb8f4d1a85fc068c10bef220f401391d832f.js
+2022-06-24T07:19:37.321Z - error: [Window] Cannot use 'in' operator to search for 'position' in nullTypeError: Cannot use 'in' operator to search for 'position' in null
+    at <process:scene>
+    at SceneFacadeManager.queryNodeDump (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:13690)
+2022-06-24T07:19:37.319Z - log: [Scene] Cannot use 'in' operator to search for 'position' in nullTypeError: Cannot use 'in' operator to search for 'position' in null
+    at SceneFacadeManager.queryNodeDump (C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:13690)
+2022-06-24T07:20:05.119Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/a9/a95899e61620e6739cc08d8869f411f915f45f7a.js
+2022-06-24T07:20:31.186Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'spriteFrame') in http://localhost:7456/scripting/x/chunks/77/772441a48e25c09ef465276c8d53b7cdd7d563dd.js
+2022-06-24T07:24:45.081Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/60/60955a3c203986aed1b1a26f79b39b69556e0726.js
