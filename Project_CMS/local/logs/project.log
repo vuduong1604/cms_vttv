@@ -302,3 +302,179 @@
 2022-06-24T07:20:05.119Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/a9/a95899e61620e6739cc08d8869f411f915f45f7a.js
 2022-06-24T07:20:31.186Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'spriteFrame') in http://localhost:7456/scripting/x/chunks/77/772441a48e25c09ef465276c8d53b7cdd7d563dd.js
 2022-06-24T07:24:45.081Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/60/60955a3c203986aed1b1a26f79b39b69556e0726.js
+2022-06-25T02:37:22.348Z - log: [Package] menu@1.0.0 enable
+2022-06-25T02:37:22.349Z - log: [Package] profile@1.0.0 enable
+2022-06-25T02:37:22.356Z - log: [Package] project@1.0.2 enable
+2022-06-25T02:37:22.359Z - log: [Package] messages@1.0.0 enable
+2022-06-25T02:37:22.363Z - log: [Package] program@1.0.0 enable
+2022-06-25T02:37:22.366Z - log: [Package] tester@1.0.0 enable
+2022-06-25T02:37:22.369Z - log: [Package] preferences@1.0.0 enable
+2022-06-25T02:37:22.700Z - log: Setup mods mgr.: 188.901ms
+2022-06-25T02:37:22.701Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle,particle-2d,physics-2d-box2d,physics-ammo,primitive,profiler,skeletal-animation,spine,terrain,tiled-map,tween,ui,video,webview)
+2022-06-25T02:37:22.705Z - verbose: [Engine] QuickCompile engine (311ms)
+2022-06-25T02:37:22.707Z - log: [Package] engine@1.0.6 enable
+2022-06-25T02:37:23.311Z - log: [Package] programming@1.0.0 enable
+2022-06-25T02:37:23.651Z - log: [Package] device@1.0.1 enable
+2022-06-25T02:37:23.685Z - log: [Package] ui-kit@1.0.1 enable
+2022-06-25T02:37:23.715Z - log: [Package] engine-extends@1.0.0 enable
+2022-06-25T02:37:23.767Z - log: [Package] asset-db@1.0.0 enable
+2022-06-25T02:37:23.797Z - log: [Package] scene@1.0.0 enable
+2022-06-25T02:37:23.886Z - log: [Package] server@1.0.0 enable
+2022-06-25T02:37:23.913Z - log: [Package] utils@1.0.0 enable
+2022-06-25T02:37:25.646Z - log: [Package] preview@1.0.1 enable
+2022-06-25T02:37:25.673Z - log: [Package] animator@1.0.0 enable
+2022-06-25T02:37:26.295Z - log: [Package] builder@1.3.2 enable
+2022-06-25T02:37:26.322Z - log: [Package] shortcuts@1.0.1 enable
+2022-06-25T02:37:26.347Z - log: [Package] animation-graph@1.0.0 enable
+2022-06-25T02:37:26.369Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-06-25T02:37:26.391Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-06-25T02:37:26.425Z - log: [Package] about@1.0.0 enable
+2022-06-25T02:37:26.457Z - log: [Package] assets@1.0.0 enable
+2022-06-25T02:37:26.486Z - log: [Package] console@1.0.0 enable
+2022-06-25T02:37:26.582Z - log: [Package] extension@3.0.16 enable
+2022-06-25T02:37:26.621Z - log: [Package] hierarchy@1.0.0 enable
+2022-06-25T02:37:26.653Z - log: [Package] inspector@1.0.0 enable
+2022-06-25T02:37:26.680Z - log: [Package] lightmap@1.0.4 enable
+2022-06-25T02:37:26.717Z - log: [Package] node-library@1.0.1 enable
+2022-06-25T02:37:26.744Z - log: [Package] package-asset@1.0.0 enable
+2022-06-25T02:37:26.770Z - log: [Package] process@1.0.0 enable
+2022-06-25T02:37:26.779Z - verbose: [AssetDB] Require engine code (821ms)
+2022-06-25T02:37:26.798Z - log: [Package] reference-image@1.0.0 enable
+2022-06-25T02:37:26.820Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-06-25T02:37:26.842Z - log: [Package] android@1.0.0 enable
+2022-06-25T02:37:26.865Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-06-25T02:37:26.896Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-06-25T02:37:26.928Z - log: [Package] cocos-play@1.0.0 enable
+2022-06-25T02:37:26.960Z - log: [Package] huawei-agc@1.0.0 enable
+2022-06-25T02:37:26.991Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-06-25T02:37:27.025Z - log: [Package] ios@1.0.0 enable
+2022-06-25T02:37:27.053Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-06-25T02:37:27.076Z - log: [Package] link-sure@1.0.0 enable
+2022-06-25T02:37:27.099Z - log: [Package] linux@1.0.0 enable
+2022-06-25T02:37:27.120Z - log: [Package] mac@1.0.0 enable
+2022-06-25T02:37:27.186Z - log: [Package] native@1.0.0 enable
+2022-06-25T02:37:27.213Z - log: [Package] ohos@1.0.0 enable
+2022-06-25T02:37:27.244Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-06-25T02:37:27.276Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-06-25T02:37:27.308Z - log: [Package] qtt@1.0.0 enable
+2022-06-25T02:37:27.340Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-06-25T02:37:27.377Z - log: [Package] web-desktop@1.0.0 enable
+2022-06-25T02:37:27.408Z - log: [Package] web-mobile@1.0.0 enable
+2022-06-25T02:37:27.436Z - log: [Package] wechatgame@1.0.1 enable
+2022-06-25T02:37:27.466Z - log: [Package] windows@1.0.0 enable
+2022-06-25T02:37:27.488Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-06-25T02:37:27.625Z - log: [Package] cocos-service@3.0.3 enable
+2022-06-25T02:37:27.660Z - log: [Package] importer@1.0.0 enable
+2022-06-25T02:37:27.799Z - log: [Im-plugin] Check im-plugin version.
+2022-06-25T02:37:27.804Z - log: [Package] im-plugin@3.0.8 enable
+2022-06-25T02:37:28.700Z - log: [Im-plugin] No online info of im-plugin.
+2022-06-25T02:37:34.566Z - verbose: [Scene] Require engine code (0ms)
+2022-06-25T02:37:34.566Z - verbose: [Scene] Startup engine (0ms)
+2022-06-25T02:37:34.579Z - log: [Scene] Cocos Creator v3.5.0
+2022-06-25T02:37:34.991Z - verbose: [Scene] Open engine (424ms)
+2022-06-25T02:37:34.991Z - verbose: [Scene] Configure engine (0ms)
+2022-06-25T02:37:34.757Z - info: [Scene] Forward render pipeline initialized.
+2022-06-25T03:04:39.851Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/55/550adf81f78aa73068125ce2953016688c221fa9.js
+2022-06-25T03:05:48.264Z - error: [Preview]Uncaught TypeError: Cannot set properties of null (setting 'clip') in http://localhost:7456/scripting/x/chunks/55/550adf81f78aa73068125ce2953016688c221fa9.js
+2022-06-25T03:06:47.803Z - error: [Preview]Uncaught TypeError: Cannot set properties of null (setting 'clip') in http://localhost:7456/scripting/x/chunks/55/550adf81f78aa73068125ce2953016688c221fa9.js
+2022-06-25T03:38:16.383Z - error: [Preview]unhandledrejection: Cannot read properties of null (reading 'getComponent')
+2022-06-25T03:38:16.384Z - error: [Preview]TypeError: Cannot read properties of null (reading 'getComponent')
+    at Game1_4.setImage (http://localhost:7456/scripting/x/chunks/f3/f3152dfa4ac7d0c71730e7acdedd1ae6af7deaf7.js:188:41)
+    at http://localhost:7456/scripting/x/chunks/f3/f3152dfa4ac7d0c71730e7acdedd1ae6af7deaf7.js:131:22
+2022-06-25T04:04:26.645Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/9d/9d10ed71daa737772d03fbeae9de48bcf22e304d.js
+2022-06-25T04:06:55.328Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/f2/f21c14f4131f6d114ca3c0a9216ff3806ae716c6.js
+2022-06-25T04:08:26.473Z - error: [Preview]Uncaught TypeError: Cannot set properties of null (setting 'clip') in http://localhost:7456/scripting/x/chunks/21/2154619e58b8632e698afd42f373d65bee5d4bd0.js
+2022-06-25T04:13:14.562Z - warn: Metrics: no valid info
+2022-06-25T04:13:28.291Z - log: [Package] menu@1.0.0 enable
+2022-06-25T04:13:28.293Z - log: [Package] profile@1.0.0 enable
+2022-06-25T04:13:28.299Z - log: [Package] project@1.0.2 enable
+2022-06-25T04:13:28.302Z - log: [Package] messages@1.0.0 enable
+2022-06-25T04:13:28.303Z - log: [Package] program@1.0.0 enable
+2022-06-25T04:13:28.307Z - log: [Package] tester@1.0.0 enable
+2022-06-25T04:13:28.310Z - log: [Package] preferences@1.0.0 enable
+2022-06-25T04:13:28.643Z - log: Setup mods mgr.: 186.725ms
+2022-06-25T04:13:28.645Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle,particle-2d,physics-2d-box2d,physics-ammo,primitive,profiler,skeletal-animation,spine,terrain,tiled-map,tween,ui,video,webview)
+2022-06-25T04:13:28.648Z - verbose: [Engine] QuickCompile engine (312ms)
+2022-06-25T04:13:28.650Z - log: [Package] engine@1.0.6 enable
+2022-06-25T04:13:29.245Z - log: [Package] programming@1.0.0 enable
+2022-06-25T04:13:29.547Z - log: [Package] device@1.0.1 enable
+2022-06-25T04:13:29.579Z - log: [Package] ui-kit@1.0.1 enable
+2022-06-25T04:13:29.607Z - log: [Package] engine-extends@1.0.0 enable
+2022-06-25T04:13:29.658Z - log: [Package] asset-db@1.0.0 enable
+2022-06-25T04:13:29.689Z - log: [Package] scene@1.0.0 enable
+2022-06-25T04:13:29.778Z - log: [Package] server@1.0.0 enable
+2022-06-25T04:13:29.804Z - log: [Package] utils@1.0.0 enable
+2022-06-25T04:13:31.516Z - log: [Package] preview@1.0.1 enable
+2022-06-25T04:13:31.545Z - log: [Package] animator@1.0.0 enable
+2022-06-25T04:13:32.186Z - log: [Package] builder@1.3.2 enable
+2022-06-25T04:13:32.213Z - log: [Package] shortcuts@1.0.1 enable
+2022-06-25T04:13:32.239Z - log: [Package] animation-graph@1.0.0 enable
+2022-06-25T04:13:32.261Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-06-25T04:13:32.283Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-06-25T04:13:32.320Z - log: [Package] about@1.0.0 enable
+2022-06-25T04:13:32.352Z - log: [Package] assets@1.0.0 enable
+2022-06-25T04:13:32.377Z - log: [Package] console@1.0.0 enable
+2022-06-25T04:13:32.483Z - log: [Package] extension@3.0.16 enable
+2022-06-25T04:13:32.510Z - log: [Package] hierarchy@1.0.0 enable
+2022-06-25T04:13:32.547Z - log: [Package] inspector@1.0.0 enable
+2022-06-25T04:13:32.575Z - log: [Package] lightmap@1.0.4 enable
+2022-06-25T04:13:32.613Z - log: [Package] node-library@1.0.1 enable
+2022-06-25T04:13:32.635Z - log: [Package] package-asset@1.0.0 enable
+2022-06-25T04:13:32.662Z - log: [Package] process@1.0.0 enable
+2022-06-25T04:13:32.703Z - log: [Package] reference-image@1.0.0 enable
+2022-06-25T04:13:32.724Z - verbose: [AssetDB] Require engine code (884ms)
+2022-06-25T04:13:32.725Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-06-25T04:13:32.760Z - log: [Package] android@1.0.0 enable
+2022-06-25T04:13:32.791Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-06-25T04:13:32.824Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-06-25T04:13:32.854Z - log: [Package] cocos-play@1.0.0 enable
+2022-06-25T04:13:32.884Z - log: [Package] huawei-agc@1.0.0 enable
+2022-06-25T04:13:32.915Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-06-25T04:13:32.947Z - log: [Package] ios@1.0.0 enable
+2022-06-25T04:13:32.977Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-06-25T04:13:33.009Z - log: [Package] link-sure@1.0.0 enable
+2022-06-25T04:13:33.033Z - log: [Package] linux@1.0.0 enable
+2022-06-25T04:13:33.055Z - log: [Package] mac@1.0.0 enable
+2022-06-25T04:13:33.119Z - log: [Package] native@1.0.0 enable
+2022-06-25T04:13:33.151Z - log: [Package] ohos@1.0.0 enable
+2022-06-25T04:13:33.183Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-06-25T04:13:33.214Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-06-25T04:13:33.244Z - log: [Package] qtt@1.0.0 enable
+2022-06-25T04:13:33.276Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-06-25T04:13:33.314Z - log: [Package] web-desktop@1.0.0 enable
+2022-06-25T04:13:33.346Z - log: [Package] web-mobile@1.0.0 enable
+2022-06-25T04:13:33.380Z - log: [Package] wechatgame@1.0.1 enable
+2022-06-25T04:13:33.403Z - log: [Package] windows@1.0.0 enable
+2022-06-25T04:13:33.426Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-06-25T04:13:33.573Z - log: [Package] cocos-service@3.0.3 enable
+2022-06-25T04:13:33.617Z - log: [Package] importer@1.0.0 enable
+2022-06-25T04:13:33.776Z - log: [Im-plugin] Check im-plugin version.
+2022-06-25T04:13:33.782Z - log: [Package] im-plugin@3.0.8 enable
+2022-06-25T04:13:34.684Z - log: [Im-plugin] No online info of im-plugin.
+2022-06-25T04:13:36.450Z - verbose: [Scene] Require engine code (1ms)
+2022-06-25T04:13:36.451Z - verbose: [Scene] Startup engine (0ms)
+2022-06-25T04:13:36.465Z - log: [Scene] Cocos Creator v3.5.0
+2022-06-25T04:13:37.262Z - verbose: [Scene] Open engine (798ms)
+2022-06-25T04:13:37.287Z - verbose: [Scene] Configure engine (0ms)
+2022-06-25T04:13:37.001Z - info: [Scene] Forward render pipeline initialized.
+2022-06-25T04:25:01.707Z - log: [Scene] Cannot use 'in' operator to search for 'position' in nullTypeError: Cannot use 'in' operator to search for 'position' in null
+    at SceneFacadeManager.queryNodeDump (D:\Cocos\Cocos 3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:13690)
+2022-06-25T04:25:01.708Z - error: [Window] Cannot use 'in' operator to search for 'position' in nullTypeError: Cannot use 'in' operator to search for 'position' in null
+    at <process:scene>
+    at SceneFacadeManager.queryNodeDump (D:\Cocos\Cocos 3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:13690)
+2022-06-25T04:25:03.166Z - log: [Scene] Cannot use 'in' operator to search for 'position' in nullTypeError: Cannot use 'in' operator to search for 'position' in null
+    at SceneFacadeManager.queryNodeDump (D:\Cocos\Cocos 3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:13690)
+2022-06-25T04:25:03.166Z - error: [Window] Cannot use 'in' operator to search for 'position' in nullTypeError: Cannot use 'in' operator to search for 'position' in null
+    at <process:scene>
+    at SceneFacadeManager.queryNodeDump (D:\Cocos\Cocos 3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:13690)
+2022-06-25T04:25:20.007Z - log: [Scene] Cannot use 'in' operator to search for 'position' in nullTypeError: Cannot use 'in' operator to search for 'position' in null
+    at SceneFacadeManager.queryNodeDump (D:\Cocos\Cocos 3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:13690)
+2022-06-25T04:25:20.008Z - error: [Window] Cannot use 'in' operator to search for 'position' in nullTypeError: Cannot use 'in' operator to search for 'position' in null
+    at <process:scene>
+    at SceneFacadeManager.queryNodeDump (D:\Cocos\Cocos 3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:13690)
+2022-06-25T04:25:59.304Z - log: [Scene] Cannot use 'in' operator to search for 'position' in nullTypeError: Cannot use 'in' operator to search for 'position' in null
+    at SceneFacadeManager.queryNodeDump (D:\Cocos\Cocos 3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:13690)
+2022-06-25T04:25:59.305Z - error: [Window] Cannot use 'in' operator to search for 'position' in nullTypeError: Cannot use 'in' operator to search for 'position' in null
+    at <process:scene>
+    at SceneFacadeManager.queryNodeDump (D:\Cocos\Cocos 3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:13690)
+2022-06-25T04:26:17.971Z - warn: Metrics: no valid info

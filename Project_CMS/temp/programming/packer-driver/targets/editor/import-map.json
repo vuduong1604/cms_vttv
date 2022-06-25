@@ -2,7 +2,7 @@
   "imports": {
     "cce:/internal/x/cc": "./chunks/06/06905a76530cf57ee019d9d8bcfb507c2d037fd3.js",
     "cce:/internal/x/prerequisite-imports": "./chunks/48/48925ed89f58b0eff72f0ddf69b47c4b5e8f623a.js",
-    "file:///D:/Project_CMS/NewProject/assets/Script/Game1-4.ts": "./chunks/2a/2aea4f60e3bf41583565f47750d1be26e66f2af4.js"
+    "file:///D:/CMS/cms_vttv-main/Project_CMS/assets/Script/Game1-4.ts": "./chunks/97/97bf9bf84fae9fbd5200d5e2a1700499510e6f0b.js"
   },
   "scopes": {
     "./chunks/06/06905a76530cf57ee019d9d8bcfb507c2d037fd3.js": {
@@ -31,9 +31,9 @@
       "__unresolved_9": "cce:/internal/x/cc-fu/particle-2d"
     },
     "./chunks/48/48925ed89f58b0eff72f0ddf69b47c4b5e8f623a.js": {
-      "__unresolved_0": "./chunks/2a/2aea4f60e3bf41583565f47750d1be26e66f2af4.js"
+      "__unresolved_0": "./chunks/97/97bf9bf84fae9fbd5200d5e2a1700499510e6f0b.js"
     },
-    "./chunks/2a/2aea4f60e3bf41583565f47750d1be26e66f2af4.js": {
+    "./chunks/97/97bf9bf84fae9fbd5200d5e2a1700499510e6f0b.js": {
       "cc": "./chunks/06/06905a76530cf57ee019d9d8bcfb507c2d037fd3.js"
     }
   }

@@ -130,6 +130,7 @@ export class Game1_4 extends Component {
                 false
             );
         }
+        this.popupupload.active = false;
     }
 
 
@@ -183,13 +184,12 @@ export class Game1_4 extends Component {
             
         }
         if (typefile == "mp3") {
-            var textlabel = find("Sound/Label", this.nodeSave);
+            var textlabel = find("Sound/Label_sound", this.nodeSave);
             textlabel.getComponent(Label).string = remoteUrl;
             find("Sound", this.nodeSave).getComponent(Sprite).spriteFrame =
                 this.enableSoundSprite;
         }
-        // var textlabel = find("Mask/Sprite/Label_sprite", this.nodeSave);
-        // textlabel.getComponent(Label).string = remoteUrl;
+    
     }
 
     playSound(event, id) {
