@@ -478,3 +478,153 @@
     at <process:scene>
     at SceneFacadeManager.queryNodeDump (D:\Cocos\Cocos 3.5.0\resources\app.asar\builtin\scene\dist\script\3d\facade\scene-facade-manager.ccc:1:13690)
 2022-06-25T04:26:17.971Z - warn: Metrics: no valid info
+2022-06-25T07:22:39.372Z - log: [Package] menu@1.0.0 enable
+2022-06-25T07:22:39.374Z - log: [Package] profile@1.0.0 enable
+2022-06-25T07:22:39.378Z - log: [Package] project@1.0.2 enable
+2022-06-25T07:22:39.381Z - log: [Package] messages@1.0.0 enable
+2022-06-25T07:22:39.384Z - log: [Package] program@1.0.0 enable
+2022-06-25T07:22:39.387Z - log: [Package] tester@1.0.0 enable
+2022-06-25T07:22:39.390Z - log: [Package] preferences@1.0.0 enable
+2022-06-25T07:22:39.708Z - log: Setup mods mgr.: 184.034ms
+2022-06-25T07:22:39.709Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle,particle-2d,physics-2d-box2d,physics-ammo,primitive,profiler,skeletal-animation,spine,terrain,tiled-map,tween,ui,video,webview)
+2022-06-25T07:22:39.713Z - verbose: [Engine] QuickCompile engine (296ms)
+2022-06-25T07:22:39.715Z - log: [Package] engine@1.0.6 enable
+2022-06-25T07:22:40.298Z - log: [Package] programming@1.0.0 enable
+2022-06-25T07:22:40.649Z - log: [Package] device@1.0.1 enable
+2022-06-25T07:22:40.682Z - log: [Package] ui-kit@1.0.1 enable
+2022-06-25T07:22:40.712Z - log: [Package] engine-extends@1.0.0 enable
+2022-06-25T07:22:40.756Z - log: [Package] asset-db@1.0.0 enable
+2022-06-25T07:22:40.799Z - log: [Package] scene@1.0.0 enable
+2022-06-25T07:22:40.890Z - log: [Package] server@1.0.0 enable
+2022-06-25T07:22:40.914Z - log: [Package] utils@1.0.0 enable
+2022-06-25T07:22:42.619Z - log: [Package] preview@1.0.1 enable
+2022-06-25T07:22:42.645Z - log: [Package] animator@1.0.0 enable
+2022-06-25T07:22:43.272Z - log: [Package] builder@1.3.2 enable
+2022-06-25T07:22:43.300Z - log: [Package] shortcuts@1.0.1 enable
+2022-06-25T07:22:43.331Z - log: [Package] animation-graph@1.0.0 enable
+2022-06-25T07:22:43.353Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-06-25T07:22:43.375Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-06-25T07:22:43.409Z - log: [Package] about@1.0.0 enable
+2022-06-25T07:22:43.442Z - log: [Package] assets@1.0.0 enable
+2022-06-25T07:22:43.473Z - log: [Package] console@1.0.0 enable
+2022-06-25T07:22:43.571Z - log: [Package] extension@3.0.16 enable
+2022-06-25T07:22:43.599Z - log: [Package] hierarchy@1.0.0 enable
+2022-06-25T07:22:43.627Z - log: [Package] inspector@1.0.0 enable
+2022-06-25T07:22:43.636Z - verbose: [AssetDB] Require engine code (686ms)
+2022-06-25T07:22:43.655Z - log: [Package] lightmap@1.0.4 enable
+2022-06-25T07:22:43.694Z - log: [Package] node-library@1.0.1 enable
+2022-06-25T07:22:43.716Z - log: [Package] package-asset@1.0.0 enable
+2022-06-25T07:22:43.743Z - log: [Package] process@1.0.0 enable
+2022-06-25T07:22:43.771Z - log: [Package] reference-image@1.0.0 enable
+2022-06-25T07:22:43.797Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-06-25T07:22:43.821Z - log: [Package] android@1.0.0 enable
+2022-06-25T07:22:43.845Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-06-25T07:22:43.877Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-06-25T07:22:43.908Z - log: [Package] cocos-play@1.0.0 enable
+2022-06-25T07:22:43.939Z - log: [Package] huawei-agc@1.0.0 enable
+2022-06-25T07:22:43.961Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-06-25T07:22:43.987Z - log: [Package] ios@1.0.0 enable
+2022-06-25T07:22:44.018Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-06-25T07:22:44.044Z - log: [Package] link-sure@1.0.0 enable
+2022-06-25T07:22:44.082Z - log: [Package] linux@1.0.0 enable
+2022-06-25T07:22:44.112Z - log: [Package] mac@1.0.0 enable
+2022-06-25T07:22:44.181Z - log: [Package] native@1.0.0 enable
+2022-06-25T07:22:44.206Z - log: [Package] ohos@1.0.0 enable
+2022-06-25T07:22:44.236Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-06-25T07:22:44.267Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-06-25T07:22:44.298Z - log: [Package] qtt@1.0.0 enable
+2022-06-25T07:22:44.330Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-06-25T07:22:44.367Z - log: [Package] web-desktop@1.0.0 enable
+2022-06-25T07:22:44.399Z - log: [Package] web-mobile@1.0.0 enable
+2022-06-25T07:22:44.427Z - log: [Package] wechatgame@1.0.1 enable
+2022-06-25T07:22:44.449Z - log: [Package] windows@1.0.0 enable
+2022-06-25T07:22:44.470Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-06-25T07:22:44.612Z - log: [Package] cocos-service@3.0.3 enable
+2022-06-25T07:22:44.644Z - log: [Package] importer@1.0.0 enable
+2022-06-25T07:22:44.784Z - log: [Im-plugin] Check im-plugin version.
+2022-06-25T07:22:44.790Z - log: [Package] im-plugin@3.0.8 enable
+2022-06-25T07:22:45.902Z - log: [Im-plugin] No online info of im-plugin.
+2022-06-25T07:22:47.954Z - verbose: [Scene] Require engine code (1ms)
+2022-06-25T07:22:47.954Z - verbose: [Scene] Startup engine (0ms)
+2022-06-25T07:22:47.968Z - log: [Scene] Cocos Creator v3.5.0
+2022-06-25T07:22:48.487Z - verbose: [Scene] Open engine (532ms)
+2022-06-25T07:22:48.487Z - verbose: [Scene] Configure engine (1ms)
+2022-06-25T07:22:48.179Z - info: [Scene] Forward render pipeline initialized.
+2022-06-25T08:05:37.774Z - error: [Window] [Vue warn]: Error in v-on handler: "TypeError: Cannot read property 'value' of undefined"
+
+found in
+
+---> <TreeNode>
+       <Tree>
+         <Root>
+2022-06-25T08:05:37.774Z - error: [Window] Cannot read property 'value' of undefinedTypeError: Cannot read property 'value' of undefined
+    at VueComponent.renameChange (D:\Cocos\Cocos 3.5.0\resources\app.asar\modules\editor-extensions\extensions\hierarchy\dist\components\tree-node.ccc:1:2929)
+    at input (eval at createFunction (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:11628:14), <anonymous>:3:1688)
+    at invokeWithErrorHandling (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:1863:28)
+    at HTMLInputElement.invoker (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:2188:16)
+    at HTMLInputElement.<anonymous> (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:7541:27)
+2022-06-25T08:05:39.186Z - error: [Window] [Vue warn]: Error in v-on handler: "TypeError: Cannot read property 'value' of undefined"
+
+found in
+
+---> <TreeNode>
+       <Tree>
+         <Root>
+2022-06-25T08:05:39.186Z - error: [Window] Cannot read property 'value' of undefinedTypeError: Cannot read property 'value' of undefined
+    at VueComponent.addChange (D:\Cocos\Cocos 3.5.0\resources\app.asar\modules\editor-extensions\extensions\hierarchy\dist\components\tree-node.ccc:1:3292)
+    at input (eval at createFunction (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:11628:14), <anonymous>:3:3005)
+    at invokeWithErrorHandling (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:1863:28)
+    at HTMLInputElement.invoker (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:2188:16)
+    at HTMLInputElement.<anonymous> (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:7541:27)
+2022-06-25T08:05:39.418Z - error: [Window] [Vue warn]: Error in v-on handler: "TypeError: Cannot read property 'value' of undefined"
+
+found in
+
+---> <TreeNode>
+       <Tree>
+         <Root>
+2022-06-25T08:05:39.418Z - error: [Window] Cannot read property 'value' of undefinedTypeError: Cannot read property 'value' of undefined
+    at VueComponent.addChange (D:\Cocos\Cocos 3.5.0\resources\app.asar\modules\editor-extensions\extensions\hierarchy\dist\components\tree-node.ccc:1:3292)
+    at input (eval at createFunction (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:11628:14), <anonymous>:3:3005)
+    at invokeWithErrorHandling (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:1863:28)
+    at HTMLInputElement.invoker (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:2188:16)
+    at HTMLInputElement.<anonymous> (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:7541:27)
+2022-06-25T08:05:39.835Z - error: [Window] [Vue warn]: Error in v-on handler: "TypeError: Cannot read property 'value' of undefined"
+
+found in
+
+---> <TreeNode>
+       <Tree>
+         <Root>
+2022-06-25T08:05:39.835Z - error: [Window] Cannot read property 'value' of undefinedTypeError: Cannot read property 'value' of undefined
+    at VueComponent.renameChange (D:\Cocos\Cocos 3.5.0\resources\app.asar\modules\editor-extensions\extensions\hierarchy\dist\components\tree-node.ccc:1:2929)
+    at input (eval at createFunction (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:11628:14), <anonymous>:3:1688)
+    at invokeWithErrorHandling (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:1863:28)
+    at HTMLInputElement.invoker (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:2188:16)
+    at HTMLInputElement.<anonymous> (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:7541:27)
+2022-06-25T08:05:40.043Z - error: [Window] [Vue warn]: Error in v-on handler: "TypeError: Cannot read property 'value' of undefined"
+
+found in
+
+---> <TreeNode>
+       <Tree>
+         <Root>
+2022-06-25T08:05:40.043Z - error: [Window] Cannot read property 'value' of undefinedTypeError: Cannot read property 'value' of undefined
+    at VueComponent.addChange (D:\Cocos\Cocos 3.5.0\resources\app.asar\modules\editor-extensions\extensions\hierarchy\dist\components\tree-node.ccc:1:3292)
+    at input (eval at createFunction (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:11628:14), <anonymous>:3:3005)
+    at invokeWithErrorHandling (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:1863:28)
+    at HTMLInputElement.invoker (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:2188:16)
+    at HTMLInputElement.<anonymous> (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:7541:27)
+2022-06-25T08:05:40.275Z - error: [Window] [Vue warn]: Error in v-on handler: "TypeError: Cannot read property 'value' of undefined"
+
+found in
+
+---> <TreeNode>
+       <Tree>
+         <Root>
+2022-06-25T08:05:40.275Z - error: [Window] Cannot read property 'value' of undefinedTypeError: Cannot read property 'value' of undefined
+    at VueComponent.renameChange (D:\Cocos\Cocos 3.5.0\resources\app.asar\modules\editor-extensions\extensions\hierarchy\dist\components\tree-node.ccc:1:2929)
+    at input (eval at createFunction (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:11628:14), <anonymous>:3:1688)
+    at invokeWithErrorHandling (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:1863:28)
+    at HTMLInputElement.invoker (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:2188:16)
+    at HTMLInputElement.<anonymous> (D:\Cocos\Cocos 3.5.0\resources\app.asar\node_modules\vue\dist\vue.js:7541:27)

@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 7412.175400000066,
+      "mTimestamp": 7148.605000000447,
       "chunkId": "ca4374a3008ca85000d465787e739a302e4e4ac6",
       "imports": [
         {
@@ -535,11 +535,11 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 562326.3972000014,
+      "mTimestamp": 7536.88049999997,
       "chunkId": "6b8f85b7feaee65395ce6b5e8080983e7f56d534",
       "imports": [
         {
-          "value": "file:///D:/CMS/cms_vttv-main/Project_CMS/assets/Script/Game1-4.ts",
+          "value": "file:///D:/CMSVTTV/Project_CMS/assets/Script/Game1-4.ts",
           "resolved": "__unresolved_0",
           "loc": {
             "start": {
@@ -548,7 +548,7 @@
             },
             "end": {
               "line": 4,
-              "column": 74
+              "column": 64
             }
           }
         }
@@ -558,7 +558,7 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/CMS/cms_vttv-main/Project_CMS/assets/Script/Game1-4.ts"
+            "url": "file:///D:/CMSVTTV/Project_CMS/assets/Script/Game1-4.ts"
           },
           "messages": []
         }
@@ -612,6 +612,48 @@
         "uuid": "7459314d-4162-43c3-9335-55d833dfbcf0"
       },
       "chunkId": "c43ada79006ce0d2c71f8cd9cbc723f32d425607",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 7
+            },
+            "end": {
+              "line": 15,
+              "column": 11
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CMSVTTV/Project_CMS/assets/Script/Game1-4.ts": {
+      "mTimestamp": {
+        "mtime": 1656141215370.8735,
+        "uuid": "7459314d-4162-43c3-9335-55d833dfbcf0"
+      },
+      "chunkId": "def0d306f44a65ea88f85a0a12a64bddd61862d8",
       "imports": [
         {
           "value": "cc"

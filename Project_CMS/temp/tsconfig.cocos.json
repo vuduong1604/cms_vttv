@@ -7,15 +7,15 @@
     "types": [
       "./temp/declarations/cc.custom-macro",
       "./temp/declarations/jsb",
-      "./temp/declarations/cc",
-      "./temp/declarations/cc.env"
+      "./temp/declarations/cc.env",
+      "./temp/declarations/cc"
     ],
     "paths": {
       "db://internal/*": [
         "D:\\Cocos\\Cocos 3.5.0\\resources\\resources\\3d\\engine\\editor\\assets\\*"
       ],
       "db://assets/*": [
-        "D:\\CMS\\cms_vttv-main\\Project_CMS\\assets\\*"
+        "D:\\CMSVTTV\\Project_CMS\\assets\\*"
       ]
     },
     "experimentalDecorators": true,

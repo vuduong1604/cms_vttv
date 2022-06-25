@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button do 1 - Copy",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 392,
+      "height": 140
+    },
+    "offset": {
+      "x": -0.5,
+      "y": 0.5
+    },
+    "originalSize": {
+      "width": 393,
+      "height": 141
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "4fdd12b0-0191-4a91-872f-2bde98d299da@6c48a",
+    "packable": true
+  }
+}
